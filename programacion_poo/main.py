@@ -4,10 +4,10 @@
 from mascota import Mascota
 
 # Crear objeto 1
-mascota1 = Mascota("Toby", "perro", 3)
+mascota1 = Mascota("Ody", "perro", 5)
 
 # Crear objeto 2
-mascota2 = Mascota("Luna", "gato", 5)
+mascota2 = Mascota("Pelusa", "gato", 7)
 
 # Mostrar información y sonido de cada mascota
 mascota1.mostrar_informacion()
